@@ -26,3 +26,4 @@ student at **University of Warsaw**, passionate **programmer** and economist
   - parsing commands
   - pattern matching
   - POSIX API
+  - recursively walking an Abstract Syntax Tree 
